@@ -1,4 +1,4 @@
-# 📝 emojiTable — напоминания с эмодзи
+# 📝 EmojiReminders — напоминания с эмодзи
 
 Небольшое учебное iOS-приложение на **Swift и UIKit**. Сходить в банк, не пропустить футбол, захватить зонт — у каждого дела здесь есть свой эмодзи, название и короткое описание.
 
@@ -39,7 +39,7 @@
 
 1. Скачайте репозиторий через **Code → Download ZIP** и распакуйте архив либо клонируйте:
    ```bash
-   git clone https://github.com/nyuchosee/emojiTable.git
+   git clone https://github.com/nyuchosee/EmojiReminders.git
    ```
 2. Откройте `emojiTable/emojiTable.xcodeproj` из корня репозитория.
 3. Выберите схему **emojiTable** и симулятор iPhone.
